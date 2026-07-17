@@ -52,7 +52,9 @@ Started: July 2026
 
 ## Projects
 
-Coming soon...
+Sentinel - A modular command-line security assessment toolkit built with Python.
+
+[Github Repo](https://github.com/ruben-abreu/sentinel#)
 
 ---
 
