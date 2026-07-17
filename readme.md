@@ -37,9 +37,18 @@ Started: July 2026
 - [x] Repository created
 - [ ] Python Fundamentals
 - [ ] Git & GitHub
-- [ ] First Project
+- [ ] Started First Project - Domain/IP Inspector
 
 ---
+
+## Education
+
+**CS50’s Introduction to Programming with Python**
+
+- [x] Week 0
+- [x] Week 1
+- [x] Week 2
+- [ ] Week 3
 
 ## Projects
 
